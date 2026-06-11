@@ -3,3 +3,7 @@ Abaixo está o meu progresso relaionado ao portfolio:
 
 Commit 01:
 - conserto de como os folders estão posicionados no projeto
+
+Commit 02:
+- mais texto no Sobre Mim
+- mais dois projetos na aba de projetos
