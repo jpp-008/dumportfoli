@@ -48,6 +48,25 @@ a {
     background-clip: content-box;
 }
 
+.contacts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2vw;
+    margin-top: 1vw;
+}
+
+.contacts-grid > div {
+    background-color: var(--color-background);
+    padding: 2vw;
+    text-align: center;
+    border-radius: 1vw;
+    border: 0.35vw solid var(--color-border);
+}
+
+.contacts-grid > div p span {
+    color: var(--color-text-light);
+}
+
 .banner {
     width: calc(80% + 2rem);
     height: 230px;
