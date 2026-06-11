@@ -10,3 +10,6 @@ Commit 02:
 
 Commit 03:
 - nova página (contatos)
+
+Commit 04:
+- icones adicionados aos contatos

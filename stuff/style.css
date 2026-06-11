@@ -63,8 +63,9 @@ a {
     border: 0.35vw solid var(--color-border);
 }
 
-.contacts-grid > div p span {
+.contacts-grid > div i {
     color: var(--color-text-light);
+    font-size: 1vw;
 }
 
 .banner {
