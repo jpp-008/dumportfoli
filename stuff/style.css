@@ -38,6 +38,19 @@ a {
     border-radius: 0 0 1rem 1rem;
 }
 
+.proj-hyrox {
+    background-image: url(../assets/hyrox.png);
+}
+
+.proj-tacto {
+    background-image: url(../assets/tacto.png);
+}
+
+
+.proj-bssr {
+    background-image: url(../assets/bssr.png);
+}
+
 .border {
     background-color: var(--color-border);
     color: var(--color-border);
